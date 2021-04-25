@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* padding não aumente o tamanho do elemento, faz o padding interno */
+}
+
+body {
+    background: #e6ecf0;
+    font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+    text-rendering: optimizeLegibility !important; /* melhora a fonte */
+    -webkit-font-smoothing: antialiased !important;
+}
+
